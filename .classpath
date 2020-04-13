@@ -35,5 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/ssimr/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssimr/Downloads/NotificationAPI.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
