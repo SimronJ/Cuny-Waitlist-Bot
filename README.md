@@ -13,4 +13,4 @@ Also, make sure you bring that chromedriver inside of chromedriver folder and de
 
 Release Note:
 - Now has window notifications
-- Fix the bug when you don't hear the horn sound.
+- Fix the bug where you don't hear the horn sound.
