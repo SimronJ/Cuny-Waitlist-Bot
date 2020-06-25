@@ -3,6 +3,7 @@
 
 - Friendly GUI that let the user know if the classes is open or not for CUNY institutions.
 - Works on all Semester (Spring, Summer, Fall, Winter)
+- CUNYFirst Enrollment bot
 - Notify the user when the class is open by the sound or pop message in windows/Mac
 
 # Release Note
